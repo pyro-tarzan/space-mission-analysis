@@ -1,0 +1,7 @@
+ipykernel
+iso3166
+plotly
+numpy
+pandas
+matplotlib
+seaborn
